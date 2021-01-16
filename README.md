@@ -58,7 +58,7 @@ latest stable release - currently **27.1**.
 - Fly spell check.
 - Git integration.
 - Project/Workspace integration.
-- Pomodor integration.
+- Pomodoro integration.
 - Support docker.
 - Better Chinese support:
     - Chinese calendar
